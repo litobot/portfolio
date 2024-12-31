@@ -1,22 +1,8 @@
-subject: Experiences
+subject: About Me
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
-    description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+  - role: |
+      Working as an electrician taught me that any system (regardless of size or complexity) can be broken down to its constituent parts.  And while no one person needs to understand an entire system to contribute, they can modify it through its components with a strong grasp of its fundamental parts and interlinking concepts.  
+      
+      The same ambition which drove me to solve unique problems by customizing electrical systems drives me to solve problems in the digital realm as well.  At my core, I seek a perpetually deeper comprehension of these systems in order to produce the best solutions all around.  That is my goal.

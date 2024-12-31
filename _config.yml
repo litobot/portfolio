@@ -3,16 +3,16 @@ profile_img: assets/img/headshot.jpg
 icon_img: /assets/img/logo.png
 
 name: "Lito Croy"
-job: "Your Job Title"
+job: "Full Stack Developer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 505-373-0006
+address: Albuquerque, USA
+email: litocroy@gmail.com
+linkedin_username: litobot
+github_username: litobot
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
 theme: jekyll-professional-resume
 

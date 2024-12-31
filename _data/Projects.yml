@@ -2,20 +2,23 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "[Fresh Start Recipes](https://github.com/litobot/Fresh-Start-Recipes-Fe/)"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Mobile application designed to support financially insecure folks seeking real meals at affordable prices.
+      - Offers updated store-specific pricing on ingredients at King Soopers locations
+      - "Technology Used: React, Next.js, CSS, Ruby on Rails"
+    image: "![](/assets/img/fresh_start_overview.png)"
+
+
+  - title: "[Rancid Tomatillos](https://github.com/litobot/rancid-tomatillos)" 
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - An application to view popular movie posters
+      - Users may up or down vote movies with embedded buttons
+      - Displayed movies update live according to search field criteria
+    image: "![](/assets/img/rancid_tomatillos.png)"
+
+
+  - title: "[Hang In There](https://github.com/litobot/hang-in-there-motivational)"
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Users create random motivational posters by mixing and matching stored images, titles, and quotes or generate new posters by inputting custom data.
+    image: "![](assets/img/hang_in_there.png)"
