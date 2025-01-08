@@ -16,8 +16,6 @@ contents:
       - Users may up or down vote movies with embedded buttons
       - Displayed movies update live according to search field criteria
     image: "![](assets/img/MoviesContainer.png)"
-    image: "![](assets/img/MovieDetails.png)"
-
 
   - title: "[Hang In There](https://github.com/litobot/hang-in-there-motivational)"
     description: 
