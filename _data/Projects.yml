@@ -7,7 +7,7 @@ contents:
       - Mobile application designed to support financially insecure folks seeking real meals at affordable prices.
       - Offers updated store-specific pricing on ingredients at King Soopers locations
       - "Technology Used: React, Next.js, CSS, Ruby on Rails"
-    image: "![](/assets/img/fresh_start_overview.png)"
+    image: "![](assets/img/fresh_start_overview.png)"
 
 
   - title: "[Rancid Tomatillos](https://github.com/litobot/rancid-tomatillos)" 
@@ -15,7 +15,7 @@ contents:
       - An application to view popular movie posters
       - Users may up or down vote movies with embedded buttons
       - Displayed movies update live according to search field criteria
-    image: "![](/assets/img/rancid_tomatillos.png)"
+    image: "![](assets/img/rancid_tomatillos.png)"
 
 
   - title: "[Hang In There](https://github.com/litobot/hang-in-there-motivational)"
