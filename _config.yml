@@ -1,5 +1,5 @@
 title: My Portfolio Site
-profile_img: assets/img/headshot.jpg
+profile_img: /assets/img/headshot.jpg
 icon_img: /assets/img/logo.png
 
 name: "Lito Croy"
