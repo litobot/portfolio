@@ -1,11 +1,9 @@
 subject: Skills
-listing-order: 5
+listing-order: 7
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: "
-
-      ![markdown icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg)
         
       ![ruby icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg)
 
@@ -18,7 +16,7 @@ contents:
     "
   - title: Frameworks & Libraries
     description: "
-    
+
       ![rails icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg)
 
       ![react icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)

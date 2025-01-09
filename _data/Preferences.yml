@@ -1,5 +1,13 @@
-subject: Languages
-listing-order: 7
+subject: Preferences
+listing-order: 6
 icon: "/assets/img/globe.svg"
-contents:
-  - title: 
+contents: Preferred Location
+  - title: Remote
+  - title: Hybrid within the Albuquerque/Santa Fe metropolitan area
+
+contents: Previous Industries
+  - title: Commercial Elecrical & Construction Trades
+  - title: Agriculture
+  - title: Recreation, Hospitality, & Resturant Services
+  - title: Adventure Tourism
+  - title: Retail

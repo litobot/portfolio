@@ -1,15 +1,20 @@
 subject: Education
-listing-order: 2
+listing-order: 4
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Turing School of Software & Design
     description:
       - Fullstack Software Engineering certificate program
       - Emphasis on collaborative app development
-    date: Mar. 2024 - Jan. 2025
+    date: Mar 2024 - Jan 2025
   
   - title: Texas A&M University, BS Recreation, Parks, & Tourism Sciences
     description:
       - Emphasis on leisure businesses, hospitality, travel, and public parks.
       - Corps of Cadets
-    date: Aug. 2005 - May. 2010
+    date: Aug 2005 - May 2010
+
+  - title: Central New Mexico Community College
+    description:
+      - Electrical Trades Certificate Program
+    date: Jan 2020 - April 2021
