@@ -107,3 +107,4 @@ If you want to use a custom domain for your GitHub Pages site rather than using 
 
 5. **Wait for DNS Propagation**
    - It may take some time for the DNS changes to propagate. Once complete, your site should be accessible via your custom domain.
+Trigger rebuild
