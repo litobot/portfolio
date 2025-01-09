@@ -2,12 +2,12 @@ subject: Preferences
 listing-order: 6
 icon: "/assets/img/globe.svg"
 contents:
-  title: Preferred Location
+  - title: Preferred Location
     description:
     - Remote
     - Hybrid within the Albuquerque/Santa Fe metropolitan area
 
-  title: Previous Industries
+  - title: Previous Industries
     description:
     - Commercial Electrical & Construction Trades
     - Agriculture
