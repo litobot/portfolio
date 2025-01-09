@@ -4,9 +4,10 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "[Fresh Start Recipes](https://github.com/litobot/Fresh-Start-Recipes-Fe/)"
     description: 
-      - Mobile application designed to support financially insecure folks seeking real meals at affordable prices.
+      - Mobile application designed to support financially insecure folks seeking real meals at affordable prices
       - Offers updated store-specific pricing on ingredients at King Soopers locations
-      - "Technology Used: React, Next.js, CSS, Ruby on Rails"
+      - Attractive, user-friendly interface with multiple filtering options for users to select desired recipes
+      - "Technology Used: React, Next.js, CSS, Ruby on Rails, RSpec, Cypress"
     image: "![](assets/img/fresh_start_overview.png)"
 
 
@@ -14,10 +15,15 @@ contents:
     description: 
       - An application to view popular movie posters
       - Users may up or down vote movies with embedded buttons
-      - Displayed movies update live according to search field criteria
-    image: "![](assets/img/MoviesContainer.png)"
+      - Live search changes displayed posters depending on current search input
+      - "Technology Used: React, CSS, Cypress"
+    images: 
+      - "![](assets/img/MoviesContainer.png)"
+      - "![](assets/img/MoviesDetails.png)"
 
   - title: "[Hang In There](https://github.com/litobot/hang-in-there-motivational)"
     description: 
-      - Users create random motivational posters by mixing and matching stored images, titles, and quotes or generate new posters by inputting custom data.
+      - Users create random motivational posters by mixing and matching stored images, titles, and quotes or generate new posters by inputting custom data
+      - API consumption provides stockpile of images, titles, and quotes for poster creation
+      - "Technology Used: Ruby on Rails, RSpec"
     image: "![](assets/img/hang_in_there.png)"
