@@ -19,7 +19,9 @@ contents:
       - "Technology Used: React, CSS, Cypress"
     images: 
       - "![](assets/img/MoviesContainer.png)"
-      - "![](assets/img/MoviesDetails.png)"
+      - "![](assets/img/MovieDetails.png)"
+
+      
 
   - title: "[Hang In There](https://github.com/litobot/hang-in-there-motivational)"
     description: 
