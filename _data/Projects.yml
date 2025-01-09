@@ -4,14 +4,14 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "[Fresh Start Recipes](https://github.com/litobot/Fresh-Start-Recipes-Fe/) Team of 3 - Collaborated with John Hill & Shane Galvin"
     description: 
-      - Fresh Start is an application designed to benefit unhoused and housing insecure folks in the Denver metropolitan area by providing cheap and easily prepared recipes as an alternative to unhealthy, prepackaged food. Optimized for mobile to accommodate their needs, the app provides store-specific pricing on ingredients carried at their local King Soopers grocery store (updated hourly). The attractive, easy-to-use interface allows users to efficiently navigate a variety of recipes via several filtering options. Users can find recipes based on cost, required cookware, and those recipes which contain ingredients users already possess to further reduce their financial burden.
+      - Fresh Start is an application designed to benefit unhoused and housing-insecure folks in the Denver metropolitan area by providing cheap and easily prepared recipes as an alternative to unhealthy, pre-packaged food. Optimized for mobile to accommodate their needs, the app provides store-specific pricing on ingredients carried at their local King Soopers grocery store (updated hourly). The attractive, easy-to-use interface allows users to efficiently navigate a variety of recipes via several filtering options. Users can find recipes based on cost, required cookware, and those recipes which contain ingredients users already possess to further reduce their financial burden.
       - "Technology Used: React, Next.js, CSS, Ruby on Rails, RSpec, Cypress"
     image: "![](assets/img/fresh_start_overview.png)"
 
 
   - title: "[Rancid Tomatillos](https://github.com/litobot/rancid-tomatillos) Paired with Melchor De La Rosa"
     description: 
-      - Rancid Tomatillos mimics the popular movie rating website "Rotten Tomatoes".  Users can search well-known movie posters with a live search option. Movie titles matching the current search criteria populate the page and hides those which do not. Movie posters maintain popularity ranking which is easily modified by clicking either the up or down arrows associated with each one, sending this data to the back-end for persistence.
+      - Rancid Tomatillos mimics the popular movie rating website "Rotten Tomatoes".  Users can search well-known movie posters with a live-search option. Movie titles matching the current search criteria populate the page and hides those which do not. Movie posters maintain popularity ranking which is easily modified by clicking either the up or down arrows associated with each one, sending this data to the back-end for persistence.
       - "Technology Used: React, CSS, Cypress"
     images: 
       - "![](assets/img/MoviesContainer.png)"
