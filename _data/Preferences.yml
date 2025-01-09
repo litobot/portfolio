@@ -1,13 +1,14 @@
 subject: Preferences
 listing-order: 6
 icon: "/assets/img/globe.svg"
-contents: Preferred Location
-  - title: Remote
-  - title: Hybrid within the Albuquerque/Santa Fe metropolitan area
+contents:
+  Preferred Location:
+    - title: Remote
+    - title: Hybrid within the Albuquerque/Santa Fe metropolitan area
 
-contents: Previous Industries
-  - title: Commercial Elecrical & Construction Trades
-  - title: Agriculture
-  - title: Recreation, Hospitality, & Resturant Services
-  - title: Adventure Tourism
-  - title: Retail
+  Previous Industries:
+    - title: Commercial Electrical & Construction Trades
+    - title: Agriculture
+    - title: Recreation, Hospitality, & Restaurant Services
+    - title: Adventure Tourism
+    - title: Retail
